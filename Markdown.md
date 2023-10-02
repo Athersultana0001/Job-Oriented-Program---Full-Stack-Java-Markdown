@@ -1,8 +1,8 @@
-# 🚀 **Welcome to our Job-Oriented Program - Full Stack Java!** 🚀 (Slide 1)
+# 🚀 **Welcome to our Job-Oriented Program - Full Stack Java!** 🚀 
 
 "We're thrilled to start this learning adventure with you, where we'll explore Java development and provide you with the skills for a successful career in full-stack development."
 
-# 📋 **Overview of the session.** 📋 (Slide 2) 
+# 📋 **Overview of the session.** 📋 
 This program is set to address the following topics:
 
 1.  About Orientation program. 🌟
@@ -18,7 +18,7 @@ This program is set to address the following topics:
 11.  QA Session ❓
 12.  Tomorrow 📅
 
-# 💼 **About Orientation program.** 💼 (Slide 3)
+# 💼 **About Orientation program.** 💼 
 
 -   This is Job Oreiented Program **(JOP)** for Full Stack Java **(FSJ)** - Batch 88
     
@@ -29,8 +29,7 @@ This program is set to address the following topics:
 -   "This program is best suited for individuals with at least **1 year of experience.** Freshers are welcome to join as well.
     
 
-# 🏢 **About the company nCodeIT** 🏢 (Slide 4)
-
+# 🏢 **About the company nCodeIT** 🏢 
 -   nCodeIT Pvt Ltd, established a decade ago in 2014.
 
 -   It has evolved from its initial focus on corporate training to specializing in **job-oriented training.**
@@ -41,7 +40,7 @@ This program is set to address the following topics:
 
 -   Operating in **Hyderabad's Ameerpet** and **Bangalore's Marthahalli** areas.
 
-# 👨‍💼 **CEO Introduction** 👨‍💼 (Slide 5)
+# 👨‍💼 **CEO Introduction** 👨‍💼 
 
 -   Introducing **Anil Kintata,** our **CEO** and **Project Manager** with two decades of hands-on experience.
     
@@ -52,7 +51,7 @@ This program is set to address the following topics:
 
 Anil Kintata, our CEO, is not just a leader; he's a dynamic force shaping the future of our organization with his extensive knowledge and forward-looking vision.
 
-# 👥 **Team Introduction** 👥 (Slide 6) 
+# 👥 **Team Introduction** 👥 
 Meet our exceptional team:
 
 1.  **Anil Kintala** - CEO and Project Manager 📊
@@ -76,7 +75,7 @@ Meet our exceptional team:
 
 Together, they form the dynamic force behind our success, bringing a wealth of expertise to our JAVA-focused initiatives.
 
-# 💻 **Technology Stack** 💻 (Slide 7)
+# 💻 **Technology Stack** 💻 
 
 Our comprehensive technology stack covers a wide range of tools and frameworks, including:
 
@@ -124,7 +123,7 @@ Our comprehensive technology stack covers a wide range of tools and frameworks, 
 
 Our robust technical stack isn't just about coding; it's about shaping futures and landing dream jobs.
 
-# 🎯 **Objective** 🎯 (Slide 8)
+# 🎯 **Objective** 🎯 
 
 This objective section is vital because it lets us know what each student aims to achieve, allowing us to customize their learning experience accordingly.
 
@@ -137,7 +136,7 @@ The 2 objectives are:
 
 No matter your path, we're here to guide you towards success in the world of Java.
 
-# 📊 **Program Model** 📊 (Slide 9) 
+# 📊 **Program Model** 📊 
 This program model is designed to cover a comprehensive range of topics and skills over its 100-day duration, ensuring students are well-prepared for real-world scenarios and job interviews.
 
 The program model consists of:
@@ -157,7 +156,7 @@ The program model consists of:
         -   **MODULE4:** Real-time Project
         -   **MODULE5**: Interview Preparation
 
-# 📈 **Benefits** 📈 (Slide 10) 
+# 📈 **Benefits** 📈 
 Here are the benefits of the program:
 
 1.  **Time Reduction**: Completing the program in just 3 to 12 months accelerates your entry into the job market, saving you 8 months compared to traditional education paths.
@@ -171,7 +170,7 @@ Here are the benefits of the program:
 5.  **Cost Savings**: Significantly reduce your living costs, ranging from 6k to 50k, including PG expenses.
     
 
-# ⏳ **Duration & Timings** ⏳ (Slide 11)
+# ⏳ **Duration & Timings** ⏳ 
 
 Here's the program duration and timings breakdown:
 
@@ -192,7 +191,7 @@ In addition, there will be a **2-week** period dedicated to **resume preparation
 
 This structured schedule ensures that students receive thorough training and ample preparation for job interviews in a span of 90 days.
 
-# 📝 **Eligibility criteria** 📝 (Slide 12)
+# 📝 **Eligibility criteria** 📝 
 
 1.  **Core Java Knowledge**: Applicants should have a solid understanding of Core Java, equivalent to 45 days to 2 months of study.
     
@@ -206,7 +205,7 @@ This structured schedule ensures that students receive thorough training and amp
 
 This eligibility framework ensures that a wide range of candidates, including fresh graduates and experienced professionals, can join the program.
 
-# 💰 **FEE** 💰 (Slide 13) 
+# 💰 **FEE** 💰 
 Here's the fee structure for the program:
 
 -   **STAGE1 - Free** (7 Days)
@@ -225,7 +224,7 @@ For those who graduated in 2023, Modules 4 and 5 will be chargeable.
 
 Upon securing a job, participants will enter into a contract with NcodeIT to stay for a year. During the first 6 months, they'll receive a salary of 40k to 50k per month, paying 10k per month to NcodeIT. From the 7th to the 12th month, they'll retain the entirety of their salary.
 
-# ❓ **Miscellaneous QA** ❓ (Slide 14) **
+# ❓ **Miscellaneous QA** ❓ **
 **Q: What are the requirements for these positions?** 
 A: We are seeking 100 to 150 candidates with 1 to 5 years of experience in this field.
 
@@ -237,7 +236,7 @@ A: Specific skills and qualifications will be detailed in the job postings for t
 
 🌐 **Our clients include Tech Mahindra (TechM), Capgemini, Razorpay, Alchemy, Allstate, and several others.** 🌐
 
-# 📅 **Tomorrow** 📅 (Slide 15)
+# 📅 **Tomorrow** 📅 
 
 Tomorrow's schedule from 8 AM to 12 PM:
 
