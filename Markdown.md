@@ -226,13 +226,17 @@ Upon securing a job, participants will enter into a contract with NcodeIT to sta
 
 # ❓ **Miscellaneous QA** ❓ 
 **Q: What are the requirements for these positions?** 
+
 A: We are seeking 100 to 150 candidates with 1 to 5 years of experience in this field.
 
 **Q: How many candidates are you looking to hire for these roles?** 
+
 A: We aim to hire 100 candidates for these positions.
 
 **Q: Can you provide more details about the required skills for these roles?** 
+
 A: Specific skills and qualifications will be detailed in the job postings for these positions.
+
 
 🌐 **Our clients include Tech Mahindra (TechM), Capgemini, Razorpay, Alchemy, Allstate, and several others.** 🌐
 
