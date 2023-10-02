@@ -224,7 +224,7 @@ For those who graduated in 2023, Modules 4 and 5 will be chargeable.
 
 Upon securing a job, participants will enter into a contract with NcodeIT to stay for a year. During the first 6 months, they'll receive a salary of 40k to 50k per month, paying 10k per month to NcodeIT. From the 7th to the 12th month, they'll retain the entirety of their salary.
 
-# ❓ **Miscellaneous QA** ❓ **
+# ❓ **Miscellaneous QA** ❓ 
 **Q: What are the requirements for these positions?** 
 A: We are seeking 100 to 150 candidates with 1 to 5 years of experience in this field.
 
