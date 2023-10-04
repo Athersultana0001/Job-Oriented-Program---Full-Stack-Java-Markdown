@@ -47,7 +47,7 @@ This is Job Oreiented Program **(JOP)** for Full Stack Java **(FSJ)** - Batch 88
 -   **Locations:** Hyderabad (Ameerpet) and Bangalore (Marthahalli).
 ----
 
-# 👨‍💼 **Meet Our CEO - Anil Kintata** 👨‍💼
+# 👨‍💼 **Meet Our CEO - Anil ** 👨‍💼
 
 ![Business People Deskvector Illustration Cartoon Character Stock  Illustration - Download Image Now - iStock](https://media.istockphoto.com/id/824226664/vector/business-people-desk-vector-illustration-cartoon-character.jpg?s=612x612&w=0&k=20&c=wg1CE9-fC2UcRoqAjBSvWb-mzWO6_zvYVhgeiAYCcgo=)
 
@@ -57,7 +57,7 @@ This is Job Oreiented Program **(JOP)** for Full Stack Java **(FSJ)** - Batch 88
 -   **Specializations**: Cloud Architecture (AWS, Azure, Oracle) and DevOps (k8s)
 -   **Passions**: Actively engaged in AI, MLOps, architecture, and infrastructure projects
 
-Anil Kintata, our CEO, is not just a leader; he's a dynamic force shaping the future of our organization with his extensive knowledge and forward-looking vision.
+Anil, our CEO, is not just a leader; he's a dynamic force shaping the future of our organization with his extensive knowledge and forward-looking vision.
 
 
 ----
@@ -65,7 +65,7 @@ Anil Kintata, our CEO, is not just a leader; he's a dynamic force shaping the fu
 # 👥 **Meet Our Exceptional Team** 👥
 ![Building Cartoon png download - 1400*1010 - Free Transparent Collaboration  png Download. - CleanPNG / KissPNG](https://banner2.cleanpng.com/20180403/fjw/kisspng-collaboration-communication-organization-managemen-work-5ac37571c748d0.4642297915227590258163.jpg)
 
-1.  **Anil Kintala** - CEO and Project Manager 📊
+1.  **Anil** - CEO and Project Manager 📊
     
     -   Leading with strategic vision.
 2.  **Pavan** - JAVA Technical and JAVA ARCHITECT 💼
